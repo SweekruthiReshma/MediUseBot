@@ -8,10 +8,10 @@ import telebot
 import openai
 
 # Set up your Telegram bot token
-BOT_TOKEN = '6234550679:AAHyHoQI98evQTZhTJfWRfwIu0bXxdE7O58'
+BOT_TOKEN = 'Your Bot API Token '
 
 # Set up your OpenAI API credentials
-openai.api_key = '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'
+openai.api_key = '*******************************************YOUR OPEN AI API*********************************'
 
 # Initialize the Telegram bot
 bot = telebot.TeleBot(BOT_TOKEN)
